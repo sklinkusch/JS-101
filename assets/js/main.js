@@ -54,6 +54,12 @@ let d = [
   "Lisp"
 ];
 const j = d.length;
+let l;
+let m;
 for (let i = 0; i < j; i++) {
   console.log(`${i}: ${d[i]}`);
+  l = typeof i;
+  console.log(`variable has type ${l}`);
+  // m = typeof(${d[i]});
+  // console.log(`${d[i]} has type ${m}`);
 }
