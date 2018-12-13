@@ -51,7 +51,8 @@ let d = [
   "Bash",
   "JS",
   "Tcsh",
-  "Lisp"
+  "Lisp",
+  "Basic"
 ];
 const j = d.length;
 let l;
