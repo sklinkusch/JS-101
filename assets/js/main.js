@@ -62,5 +62,5 @@ for (let i = 0; i < j; i++) {
   // l = typeof i;
   // console.log(`variable has type ${l}`);
   m = typeof d[i];
-  console.log(`element has type ${m}`);
+  console.log(`array element has type ${m}`);
 }
